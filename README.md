@@ -1,4 +1,6 @@
 # Graph_components
+![alt text](https://raw.githubusercontent.com/saeedizade/Graph_components/master/example.png?raw=true "Example of what it dose")
+
 an algorithm that separates graph into groups based on conectivity <br />
  if u have graph like this : A-B-C   D-F   G-Q-W , (a graph with three ailent) it will return this  [A,B,C],[D,F],[Q,W,G] . <br />
  the Graph must be in a file like this : (head,tail,relation)  . ( this format is for Knowledge Graphs) <br />

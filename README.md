@@ -9,6 +9,7 @@ an algorithm that separates graph into groups based on conectivity <br />
 
 # how to run :
 step 1 : make a file that contains tripples (head,tail,rel) <br />
+<b>carefull this format is for directed Graphs but we dont consider direction of graph.</b> <br />
 step 2 : run the code like its said on jupyter notebook <br />
 step 3 : the result saved on graph_bfs (variable) , u can do what ever u want (counting how many node exist in each ailents or removing small ailents and ect) <br />
 
